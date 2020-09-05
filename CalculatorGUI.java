@@ -1,7 +1,7 @@
 package calculatorGUI;
 
 //GCI19 - Task: Java Calculator GUI - Carlo Dino
-//warning: spaghetti code alert - my first time running with JFrame for anything, honestly
+//warning: spaghetti code alert - my first time running with JFrame for anything
 
 import javax.swing.*;
 import java.awt.FlowLayout;
